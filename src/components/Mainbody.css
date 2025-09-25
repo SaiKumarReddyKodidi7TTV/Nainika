@@ -1,10 +1,4 @@
-.main-body {
-  min-height: 60vh;
-  padding: 2rem;
-  background-color: #fafafa;
-}
-
-/* Targets are blank; keep them non-intrusive */
-#about, #services, #contact {
-  min-height: 0;
+.mainbody {
+  background: #fafafa;
+  padding-bottom: 2rem;
 }
