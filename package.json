@@ -1,6 +1,5 @@
-
 {
-  "homepage":"https://saikumarreddykodidi7ttv.github.io/Nainika",
+  "homepage": "https://saikumarreddykodidi7ttv.github.io/Nainika",
   "name": "my-business-app",
   "private": true,
   "version": "0.0.1",
@@ -9,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d docs"
   },
   "dependencies": {
     "react": "^18.3.1",
